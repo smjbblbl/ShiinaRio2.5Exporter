@@ -1,4 +1,4 @@
-![image](https://github.com/Shiyaemetu/NoGalGameEncryption/blob/main/1.gif)
+![image](https://github.com/Shiyaemetu/ShiinaRio2.5Exporter/blob/main/1.gif)
 ShiinaRio 2.50リアルタイムDump
 これはゲーム進行中で復号化されたS25ファイルをDumpするアセンブリです
 
