@@ -10,4 +10,5 @@ DumpされたS25ファイルはGARbroまたはUniExtractを使用して解凍で
 CheatEngineのAuto Assemblerを使ってShiinaRio 2.50.asmのCodeをInjectします
 NUKITASHI.exe+7455Fのアセンブリを jmp inject　に書き換えればいいです
 
-デフォルトはE:\Dumpに読み取ったS25ファイルを保存する
+デフォルトはE:\Dumpに読み取ったS25ファイルを保存します
+asmファイル143行で他のPathに変更することができます
